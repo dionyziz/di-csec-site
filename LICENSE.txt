@@ -1,0 +1,11 @@
+Code in this repository is licensed under the MIT license.
+
+Educational material including slides and writeups in this repository is
+released under the Creative Commons 4.0 Attribution license.
+
+The site template is licensed under the following license:
+
+Creative Commons Attribution 3.0 Unported
+http://creativecommons.org/licenses/by/3.0/
+
+Attribution: HTML5 UP
